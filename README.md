@@ -23,7 +23,3 @@ Commit #21
 Commit #22
 Commit #23
 Commit #24
-Commit #25
-Commit #26
-Commit #26
-Commit #27
